@@ -1,1 +1,3 @@
-elden ring builds wiki <3
+elden ring builds wiki site <3
+
+build w html, css, bootstrap and javascript
